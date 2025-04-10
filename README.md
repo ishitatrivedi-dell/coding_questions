@@ -1,10 +1,10 @@
-# 💻 Machine Coding Practice – React & Node.js (2025)
+# 💻 Coding Practice – React & Node.js (2025)
 
 This repository contains solutions to  coding questions from the [Coding Gita Full Stack Development 2025](https://github.com/codinggita/full_stack_development_2025/tree/main/interview/machine_coding) repository. These questions are designed to improve and evaluate real-world coding skills in **React** and **Node.js**, commonly asked in technical interviews.
 
 ## ✅ Goal
 
-- Solve **15 machine coding problems** in total (React and/or Node.js).
+- Solve **15 coding problems** in total (React and/or Node.js).
 - All code is written without external help from the internet.
 - Practice writing clean, readable, and interview-ready code.
 
@@ -51,7 +51,7 @@ This practice strengthens your:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ishitatrivedi-dell/coding_questions
 cd your-repo-name
 Install dependencies (if any) and run the app:
 
