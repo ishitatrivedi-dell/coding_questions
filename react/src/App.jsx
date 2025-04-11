@@ -8,7 +8,8 @@ import About from './components/react-router/About';
 import FetchApi from './components/api-fetch/fetchApi'
 import Toggle from './components/toggle/Toggle'
 import Theme from "./components/toggle/Theme";
-
+import User from "./components/redux";
+import TodoApp from "./components/TODO";
 function App() {
 
   return (
@@ -29,6 +30,8 @@ function App() {
     <FetchApi/>
     <Toggle/>
     <Theme/>
+    <User/>
+    <TodoApp/>
     </>
     
   )
